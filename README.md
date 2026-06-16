@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Guru%20Abijeth%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Guru%20Abijeth%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20and%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/guru-abijeth-s-46610132b/">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Python+%26+Machine+Learning;Full-Stack+Developer+%7C+React+%2F+Node;Always+learning+something+new+%E2%9C%A8&font=Fira%20Code&center=true&width=600&height=45&color=06B6D4&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Python+and+Machine+Learning;Full-Stack+Developer+%7C+React+%2F+Node;Always+learning+something+new+%E2%9C%A8&font=Fira%20Code&center=true&width=600&height=45&color=06B6D4&vCenter=true&size=22" />
 </a>
 
 <br/>
