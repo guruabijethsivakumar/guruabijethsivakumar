@@ -1,98 +1,176 @@
-<h1 align="center">Hi there, I'm Guru Abijeth S 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>IT Undergrad • Building with Python, ML, and the Web</em>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=220&section=header&text=Guru%20Abijeth%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20ML%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/guruabijethsivakumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:sivakumarguruabijeth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://www.linkedin.com/in/guru-abijeth-s-46610132b/">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Python+%26+Machine+Learning;Full-Stack+Developer+%7C+React+%2F+Node;Always+learning+something+new+%E2%9C%A8&font=Fira%20Code&center=true&width=600&height=45&color=06B6D4&vCenter=true&size=22" />
+</a>
 
----
+<br/>
 
-### 🎓 About Me
+<a href="https://www.linkedin.com/in/guru-abijeth-s-46610132b/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/guruabijethsivakumar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://guruportfolio-rosy.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:sivakumarguruabijeth@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 🏫 B.Tech in Information Technology @ **Sri SivaSubramania Nadar College of Engineering**, Chennai (CGPA: 8.66) — *Aug 2024 – May 2028*
-- 📚 Pursuing a Minor in **CSE & Advanced Technologies** through **IIT Mandi × Masai School** (2 of 3 modules cleared)
-- 🧠 Interested in **Machine Learning, full-stack development, and applied AI systems**
-- 🏆 Selected team — **MSME Hackathon 2025**, Ministry of MSME, Government of India (project approved for ₹15 Lakh funding)
+<img src="https://komarev.com/ghpvc/?username=guruabijethsivakumar&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
----
+</div>
 
-### 🛠️ Tech Stack
+<br/>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-</p>
+## 🎓 About Me
 
-**Web Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
+```yaml
+education:
+  degree: "B.Tech in Information Technology"
+  college: "Sri SivaSubramania Nadar College of Engineering, Chennai"
+  cgpa: 8.66
+  duration: "Aug 2024 - May 2028"
 
-**Databases**
-<p>
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+minor_program:
+  name: "CSE & Advanced Technologies"
+  by: "IIT Mandi x Masai School"
+  status: "2 of 3 modules cleared"
 
-**ML / Libraries & Tools**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+current_focus:
+  - "Machine Learning & Applied AI Systems"
+  - "Full-Stack Web Development"
+  - "Data Structures & Algorithms"
 
-**Concepts:** Data Structures & Algorithms
+recognition:
+  event: "MSME Hackathon 2025"
+  org: "Ministry of MSME, Government of India"
+  result: "Selected team | Project approved for ₹15 Lakh funding"
+```
 
----
+<br/>
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-#### 🧠 [Multimodal Sleep Stage Classification System](https://github.com/guruabijethsivakumar/YOUR-REPO-LINK)
-`Python` `TensorFlow` `Scikit-learn` `CNN-LSTM` `Random Forest` `MNE`
-- Classified sleep stages from EEG, EOG, and EMG biosignals using the MNE neurophysiology library.
-- Built a CNN-LSTM architecture capturing spatial & temporal signal patterns — **90.96% accuracy** on unseen subjects.
-- Built a Random Forest baseline on handcrafted features — **87.38% accuracy**.
+<div align="center">
 
-#### 📊 English Assessment Score Normalization System
-`Node.js` `Express.js` `PostgreSQL` `Machine Learning`
-- Adaptive English assessment platform with dynamic difficulty adjustment.
-- REST APIs for question banks, student responses, and analytics.
-- Transformer-based ML model to classify grammar topics and predict question difficulty.
-- Difficulty-weighted scoring for fair performance comparison across students.
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,bootstrap,oracle,mongodb,tensorflow,git,github,vscode&theme=dark" />
 
-#### 🌿 AyurDiet — AI-Powered Ayurvedic Diet Management System
-`Python` `RAG` `Embeddings` `Cloud Platform`
-- AI-powered cloud platform helping Ayurvedic dietitians generate personalized diet plans.
-- RAG-based recommendation engine with embedding-based semantic search to match foods with health conditions.
-- Automated structured daily/weekly meal plan generation.
-- Patient tracking system to monitor adherence and health progress.
+</div>
 
----
+<br/>
 
-### 📈 GitHub Stats
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guruabijethsivakumar&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guruabijethsivakumar&hide_border=true" height="165"/>
-</p>
+### 💻 Languages
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruabijethsivakumar&layout=compact&hide_border=true" height="165"/>
-</p>
+</td>
+<td valign="top" width="33%">
 
----
+### 🌐 Web Dev
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-<p align="center"><em>Thanks for stopping by — let's connect!</em></p>
+</td>
+<td valign="top" width="33%">
+
+### 🗄️ Database
+![Oracle](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+### 🧠 ML / AI
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+### 📐 Core
+`Data Structures & Algorithms`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Sleep Stage Classification
+**`Python` `TensorFlow` `CNN-LSTM` `MNE`**
+
+EEG/EOG/EMG-based sleep stage classifier.
+
+- ⚡ CNN-LSTM model → **90.96%** accuracy on unseen subjects
+- 🌲 Random Forest baseline → **87.38%** accuracy
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 [AyurDiet](https://github.com/guruabijethsivakumar/AyurDiet)
+**`Python` `RAG` `Embeddings` `Cloud`**
+
+AI-powered Ayurvedic diet management platform.
+
+- 🔍 RAG engine with semantic search for diet matching
+- 📅 Automated weekly meal plan generation
+- 📊 Patient adherence & progress tracking
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📊 English Assessment Score Normalization System
+**`Node.js` `Express.js` `PostgreSQL` `Machine Learning`**
+
+Adaptive English assessment platform with dynamic difficulty adjustment, REST APIs for question banks & analytics, and a Transformer-based model that classifies grammar topics and predicts question difficulty for fair, difficulty-weighted scoring.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=guruabijethsivakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guruabijethsivakumar&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruabijethsivakumar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=guruabijethsivakumar&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer"/>
